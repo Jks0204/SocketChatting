@@ -29,7 +29,7 @@
 	<h2 align="center"> 웹 소켓 채팅 </h2>
 	<div class= "input-group d-flex justify-content-center mt-3">
 		<div class="w-25 me-1"><input type= "text" id="chatID" class="form-control" placeholder="닉네임을 입력하세요"/></div>
-		<div calss="w-25"><button class="btn btn-primary" onclick="chatWinOpen();">채팅 참여</button></div>
+		<div><button class="btn btn-primary" onclick="chatWinOpen();">채팅 참여</button></div>
 	</div>
 	</div>
 </body>	
